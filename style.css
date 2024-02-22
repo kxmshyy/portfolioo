@@ -54,10 +54,6 @@ header ul li a{
 	text-decoration: none;
 
 }
-header ul li a:hover{
-	transform: translateY(-5px);
-	background-color: #bc8f8f;
-}
 .content{
 	position: relative;
 	width: 100%;
