@@ -54,6 +54,8 @@ header ul li a{
 	text-decoration: none;
 
 text-decoration: none;
+header ul li a:hover{
+	transform: translateY(-5px);
 }
 .content{
 	position: relative;
